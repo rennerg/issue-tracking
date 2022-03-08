@@ -1,5 +1,4 @@
-![Alt text](./.images/pk-icon.svg | width=250)
-<img src="./.images/pk-icon.svg" width="250" height="250">
+<img src="./.images/pk-icon.svg" width="250" height="250" align="left">
 # Welcome to the ProKnow Issue Tracker
 
 ProKnow users may use this forum for creating, upvoting and tracking the progress of issues or enhancement suggestions.
@@ -15,4 +14,3 @@ To privately report a potential security vulnerability, please email [ProKnow Su
 ## Discussions
 
 Should we make Discussions available to customers?
-
