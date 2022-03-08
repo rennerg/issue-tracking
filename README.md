@@ -12,7 +12,7 @@ To create an issue or make a feature request, refer to the [Issues tab](https://
 
 ## Security Vulnerability Reporting
 
-To privately report a potential security vulnerability, please email [ProKnow Support]("mailto:proknowsupport@elekta.com?subject=Security Vulnerability Report") directly. 
+To privately report a potential security vulnerability, please email [ProKnow Support](mailto:proknowsupport@elekta.com) directly. 
 
 ## Discussions
 
