@@ -1,5 +1,5 @@
 <img src="./.images/pk-icon.svg" width="250" height="250" align="left">
-
+<br>
 
 # Welcome to the ProKnow Issue Tracker
 
