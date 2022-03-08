@@ -17,7 +17,7 @@ The [Issues](https://github.com/rennerg/issue-tracking-test/issues) tab contains
 As requested features and defect fixes are assigned to developers and eventually released, their status will be updated. If you made the original request or commented, an automated email will be sent to you.
 
 ## Creating and Requesting
-When creating an issue, be sure to fill out each section of the [template](https://github.com/rennerg/issue-tracking-test/issues/new/choose) corresponding to the type of issue. Please be as detailed as possible.
+Before submitting a new issue be sure to [search existing issues](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests) for duplicates. When creating an issue, be sure to fill out each section of the [template](https://github.com/rennerg/issue-tracking-test/issues/new/choose) corresponding to the type of issue. Please be as detailed as possible.
 
 ## Voting
 To vote on an existing issue
