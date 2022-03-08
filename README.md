@@ -1,4 +1,4 @@
-![Alt text](./.images/pk-icon.svg =250x250)
+![Alt text](./.images/pk-icon.svg | width=250)
 <img src="./.images/pk-icon.svg">
 # Welcome to the ProKnow Issue Tracker
 
