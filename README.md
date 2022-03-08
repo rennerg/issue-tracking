@@ -14,7 +14,7 @@ To upvote an existing reported issue or feature request:
 2. Click the smiley-face icon at the upper right hand corner of the description box to bring up the vote menu
 3. Click the thumbs-up icon
 
-## **<img src="./.images/security.jpg" width="30" height="30">** Security Vulnerability Reporting
+## **<img src="./.images/security.jpg" width="40" height="40">** Security Vulnerability Reporting
 To privately report a potential security vulnerability, please email [ProKnow Support](mailto:proknowsupport@elekta.com) directly. 
 
 ## **<img src="./.images/discuss.png" width="30" height="30">** Discussions 
