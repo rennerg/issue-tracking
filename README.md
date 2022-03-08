@@ -1,21 +1,37 @@
-<p align="left">
-  <img src="./.images/pk-icon.svg" width="250" height="250">
-</p>
+# <img src="./.images/pk-icon.svg" width="35" height="35"> Welcome to the ProKnow Issue Tracker
 
-# Welcome to the ProKnow Issue Tracker
-ProKnow users may use this forum for creating, upvoting and tracking the progress of issues or enhancement suggestions.
+ProKnow users may use this forum for creating, tracking the progress of and upvoting issues or enhancement suggestions.
 
-## **<img src="./.images/features.png" width="30" height="30">** Creating Issues and Requesting Enhancements
-To create an issue or make a feature request, refer to the [Issues tab](https://github.com/rennerg/issue-tracking-test/issues). 
+## Table of Contents
+- [Defects and Enhancements](#defects-and-enhancements)
+  - [Creating and Requesting](#creating-and-requesting)
+  - [Voting](#voting)
+- [Security Vulnerability Reporting](#security-vulnerability-reporting)
+- [Discussions](#discussions)
 
-## **<img src="./.images/vote.jpg" width="40" height="40">** Upvoting Issues and Enhancements
-To upvote an existing reported issue or feature request:
-1. Open the issue or enhancement 
+<br/>
+
+# **<img src="./.images/features.png" width="30" height="30">** Defects and Enhancements
+The [Issues](https://github.com/rennerg/issue-tracking-test/issues) tab contains a list of all open and closed defects and feature enhancements. Use this tab to request a feature, look up the status of a defect fix, augment the description of an existing defect or up- or down-vote issues to give the ProKnow product team a better understanding of its importance.
+
+As requested features and defect fixes are assigned to developers and eventually released, their status will be updated.
+
+## Creating and Requesting
+When creating an issue, be sure to fill out each section of the [template](https://github.com/rennerg/issue-tracking-test/issues/new/choose) corresponding to the type of issue. Please be as detailed as possible.
+
+## Voting
+To vote on an existing issue
+1. Find and open the existing issue 
 2. Click the smiley-face icon at the upper right hand corner of the description box to bring up the vote menu
-3. Click the thumbs-up icon
+  - **Upvoting** - Click the thumbs-up icon to upvote
+  - **Downvoting** - Click the thumbs-down icon to downvote
 
-## **<img src="./.images/security.jpg" width="30" height="30">** Security Vulnerability Reporting
-To privately report a potential security vulnerability, please email [ProKnow Support](mailto:proknowsupport@elekta.com) directly. 
+<br/>
 
-## **<img src="./.images/discuss.png" width="30" height="30">** Discussions 
-Should we make Discussions available to customers?
+# **<img src="./.images/security.jpg" width="30" height="30">** Security Vulnerability Reporting
+To privately report a potential security vulnerability, please email [ProKnow Support](mailto:proknowsupport@elekta.com) directly. To avoid advertising security vulnerabilities to those that might seek to exploit them, do not report vulnerabilities via the Issues tab.
+
+<br/>
+
+# **<img src="./.images/discuss.png" width="30" height="30">** Discussions 
+Use the [Discussions](https://github.com/rennerg/issue-tracking-test/discussions) tab to discuss ProKnow features with other users or ask questions. For immediate assistance, refer to the [ProKnow Support](https://support.proknow.com/hc/en-us) page.
