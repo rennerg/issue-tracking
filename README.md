@@ -6,6 +6,7 @@
 
 ProKnow users may use this forum for creating, upvoting and tracking the progress of issues or enhancement suggestions.
 
+<img src="./.images/feature.png" width="100" height="100">
 ## Creating Issues or Requesting Enhancements
 
 To create an issue or make a feature request, refer to the [Issues tab](https://github.com/rennerg/issue-tracking-test/issues). 
