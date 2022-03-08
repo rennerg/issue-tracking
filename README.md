@@ -14,7 +14,7 @@ ProKnow users may use this forum for creating, tracking the progress of and upvo
 # **<img src="./.images/features.png" width="30" height="30">** Defects and Enhancements
 The [Issues](https://github.com/rennerg/issue-tracking-test/issues) tab contains a list of all open and closed defects and feature enhancements. Use this tab to request a feature, look up the status of a defect fix, augment the description of an existing defect or up- or down-vote issues to give the ProKnow product team a better understanding of its importance.
 
-As requested features and defect fixes are assigned to developers and eventually released, their status will be updated.
+As requested features and defect fixes are assigned to developers and eventually released, their status will be updated. If you made the original request or commented, an automated email will be sent to you.
 
 ## Creating and Requesting
 When creating an issue, be sure to fill out each section of the [template](https://github.com/rennerg/issue-tracking-test/issues/new/choose) corresponding to the type of issue. Please be as detailed as possible.
